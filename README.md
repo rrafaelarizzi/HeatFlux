@@ -7,11 +7,11 @@ This repository contains two MATLAB routines developed to compute and isolate la
 This script calculates **latent heat flux (LHF)** and **sensible heat flux (SHF)** using daily atmospheric and oceanographic data.
 
 ### 🔧 Input Variables
-- Air temperature (°C)
-- Dew point temperature (°C)
+- Air temperature (K)
+- Dew point temperature (K)
 - Wind speed (m/s)
 - Air density (kg/m³)
-- Sea surface temperature (°C)
+- Sea surface temperature (K)
 
 ### ⚙️ Output
 - Latent Heat Flux (LHF) in W/m²
